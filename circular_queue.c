@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 int q[5],i,item,front=-1,rear=-1;
 void enqueue(int item){
